@@ -9,8 +9,8 @@ Do help others.
 ![download (2)](https://user-images.githubusercontent.com/87111197/182584176-3fc80287-9c4f-4577-8a82-63aaef219eba.jpg)
 
 # What can You Contribute 👨‍💻
-There are language Specific folders in the repository choose any you're comfortable with if not, make one.
-Inside the language folder there will be multiple topic folders like Data Structures, Algorithms, Problems and projects.
+There are Different DSA Specific folders in the repository choose any you're comfortable with if not, make one.
+Inside the Specific folder there will be multiple topic folders like Data Structures, Algorithms.
 Contribute any algorithm, data-structure implementation or your favourite problmes or projects.
 
 # How to Contribute 👨‍💻 
