@@ -11,7 +11,7 @@ Do help others.
 # What can You Contribute 👨‍💻
 There are Different DSA Specific folders in the repository choose any you're comfortable with if not, make one.
 Inside the Specific folder there will be multiple topic folders like Data Structures, Algorithms.
-Contribute any algorithm, data-structure implementation or your favourite problmes or projects.
+Contribute any algorithm, data-structure implementation of problems.
 
 # How to Contribute 👨‍💻 
  If you don't know how to operate git and github go to this link ----> https://youtu.be/apGV9Kg7ics By : Kunal Kushwaha.
